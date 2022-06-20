@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Sr. Adobe Commerce Full Stack Developer at [Imagination Media](https://imaginationmedia.com/)
 - 💬 Ping me about **adobe commerce**, **frontend**, **programming**
-- 
+
 #### Contact me
 <a href="https://twitter.com/pauloharaujos">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
