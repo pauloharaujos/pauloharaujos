@@ -2,7 +2,7 @@
 
 #### I'm a Adobe Commerce Developer working from Vitória, Brazil.
 
-- 🔭 I’m currently working as Sr. Adobe Commerce Full Stack Developer at [Imagination Media](https://imaginationmedia.com/)
+- 🔭 I’m currently working as Sr. Adobe Commerce Developer at [Imagination Media](https://imaginationmedia.com/)
 - 💬 Ping me about **adobe commerce**, **frontend**, **programming**
 
 #### Contact me
