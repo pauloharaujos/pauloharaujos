@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Adobe Commerce Full Stack Developer working from Vitória, Brazil.
+#### I'm a Adobe Commerce Developer working from Vitória, Brazil.
 
 - 🔭 I’m currently working as Sr. Adobe Commerce Full Stack Developer at [Imagination Media](https://imaginationmedia.com/)
 - 💬 Ping me about **adobe commerce**, **frontend**, **programming**
